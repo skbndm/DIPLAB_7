@@ -1,0 +1,1 @@
+For this lab data was acquired from the SAOimageDs9 software, using the image server NVSS(NRAO), The data is of Tycho supernova remnent, rar file is included in the git.
